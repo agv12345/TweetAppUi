@@ -1,0 +1,47 @@
+.dataview-demo .p-dropdown {
+    width: 20rem;
+    font-weight: normal;
+}
+.dataview-demo .tweet-name {
+    
+    font-weight: 700;
+}
+
+.dataview-demo .tweet-description {
+    margin: 0 0 0rem 0;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+
+.dataview-demo .tweet-list-item {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    width: 100%;
+    border: 5px solid lightblue;
+}
+
+.dataview-demo .tweet-list-item img {
+    width: 60px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    margin-right: 2rem;
+}
+
+.dataview-demo .tweet-list-item .tweet-list-detail {
+    flex: 1 1 0;
+}
+
+.error{
+    color: red;
+}
+.p-col-12{
+    background: linear-gradient(#74b0be, #acb8c6);
+    
+}
+
+
+
+.dataview-demo .tweet-list-item .p-button {
+    margin-bottom: .5rem;
+}
+
